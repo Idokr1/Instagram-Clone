@@ -38,5 +38,5 @@ To install and run this project on your local machine, follow these steps:
 11. Run 'npm run dev' in your terminal to start the project on your local machine
 
 ## Application
-![Login](/instagram-clone.png)
+![App](/instagram-clone.png)
 
