@@ -24,4 +24,4 @@ To install and run this project on your local machine, follow these steps:
 3. Run 'npm install --legacy-peer-deps' to install all the required dependencies
 4. Open Firebase Console > Create a new project > Click on Project Settings > Click on Web app > Click on Register app
 5. Copy the config data and paste it into the "const firebaseConfig" in the firebase.js file
-6. On the Firebase Project click on Authentication - Get Started > Click on Google > Click Enable > Set support email > Click on Web SDK configuration and open the .env.local file > Set the Web client ID into the GOOGLE_CLIENT_ID variable > Set the Web client secret into the GOOGLE_CLIENT_SECRET variable > Click on Save
+6. On the Firebase Project click on Authentication - Get Started > Click on Google > Click Enable > Set support email > Click on Web SDK configuration and open the .env.local file > Set the Web client ID into the GOOGLE_CLIENT_ID variable (without "") > Set the Web client secret into the GOOGLE_CLIENT_SECRET variable (without "") > Click on Save
