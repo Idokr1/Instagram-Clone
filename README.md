@@ -27,10 +27,10 @@ To install and run this project on your local machine, follow these steps:
 6. On the Firebase Project click on Authentication - Get Started > Click on Google > Click Enable > Set support email > Click on Web SDK configuration and open the .env.local file:
 * Set the Web client ID into the GOOGLE_CLIENT_ID variable (without "")
 * Set the Web client secret into the GOOGLE_CLIENT_SECRET variable (without "")
-Click on Save
+* Click on Save
 
 8. Go to cloud.google.com and sign in to the same account > Click on Console > Make sure you are on the correct project > Click on the Menu - Api & Services > Credentials > Edit the OAuth:
 * Add http://localhost:3000 to the "Authorised JavaScript origins"
 * Add http://localhost:3000/api/auth/callback/google to the "Authorised redirect URIs"
-Click on Save
+* Click on Save
 9. 
