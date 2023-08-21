@@ -34,4 +34,5 @@ To install and run this project on your local machine, follow these steps:
 * Add http://localhost:3000/api/auth/callback/google to the "Authorised redirect URIs"
 * Click on Save
 9. Open Firebase > Firebase Database > Create Database > Start in test mode > Click Next > Click Enable
-10. Go to Storage > Rules > Change the 5 line to - allow read, write: if true; > Click Publish
+10. Go to Storage > Rules > Change line 5 to - allow read, write: if true; > Click Publish
+11. Run 'npm run dev' in your terminal to start the project on your local machine
