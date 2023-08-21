@@ -36,3 +36,6 @@ To install and run this project on your local machine, follow these steps:
 9. Open Firebase > Firebase Database > Create Database > Start in test mode > Click Next > Click Enable
 10. Go to Storage > Rules > Change line 5 to - allow read, write: if true; > Click Publish
 11. Run 'npm run dev' in your terminal to start the project on your local machine
+
+## Application
+
