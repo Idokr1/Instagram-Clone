@@ -22,3 +22,5 @@ To install and run this project on your local machine, follow these steps:
 1. Clone this repository onto your machine
 2. Navigate to the project directory in your terminal
 3. Run 'npm install --legacy-peer-deps' to install all the required dependencies
+4. Open Firebase Console > Create a new project > Click on Project Settings > Click on Web app > Click on Register app
+5. Copy the config data and paste it into the "const firebaseConfig" in the firebase.js file
